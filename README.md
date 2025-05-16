@@ -1,6 +1,6 @@
 ## Lucas Diniz
 
-<h1 align="center">Olá, eu sou o BadluckRP 👋</h1>
+<h1 align="center">Olá, eu sou o Lucas Diniz 👋</h1>
 <p align="center">
   Programador Fullstack | Especialista em Análise de Dados
 </p>
@@ -61,16 +61,9 @@ Sou desenvolvedor fullstack com uma forte paixão por análise de dados e automa
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 Email: seu.email@exemplo.com
+- 💼 [LinkedIn](-----)
+- 📧 Email: -------
 
 ---
 
 ⭐ **Vamos codar o futuro juntos!** 🚀
-
-
-<a href="https://github.com/BadluckRP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BadluckRP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadluckRP&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
