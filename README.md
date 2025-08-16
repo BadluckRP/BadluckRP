@@ -24,9 +24,9 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=flat&logo=dot-net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-217346?style=flat&logo=dotnet&logoColor=white" />
 </div>
 
 #### 🗄️ Bancos de Dados (amo muito tudo isso)
@@ -47,7 +47,7 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_Llama-6366F1?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Evolution_API-47A248?style=flat" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -56,7 +56,7 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
   <img src="https://img.shields.io/badge/Solaris-F80000?style=flat&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC" />
 </div>
 
 ---
@@ -84,3 +84,9 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
 ---
 
 ⭐ **Em busca de solução com inteligência - Posso contar com você ?** 🚀
+
+
+## ⭐ Buscando para o futuro
+<div>
+  <img src="https://img.shields.io/badge/Realizar-B6A272?style=flat&logo=lamborghini&logoColor=black" />
+</div>
