@@ -18,10 +18,10 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
 #### 💻 Desenvolvimento (sacanagem colocar HTML)
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=csswizardry&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=flat&logo=dot-net&logoColor=white" />
@@ -56,6 +56,7 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
   <img src="https://img.shields.io/badge/Solaris-F80000?style=flat&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </div>
 
 ---
