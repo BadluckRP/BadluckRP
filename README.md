@@ -65,10 +65,10 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
 
 #### 📈 Ferramentas e Bibliotecas
 <div>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=simpleanalytics&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white" />
 </div>
 
