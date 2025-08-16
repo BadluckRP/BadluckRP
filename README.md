@@ -53,7 +53,7 @@ Sou desenvolvedor com uma forte paixão por análise de dados e automações. Te
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Solaris-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solaris-F80000?style=flat&logo=cbc&logoColor=white" />
   <img src="https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC" />
